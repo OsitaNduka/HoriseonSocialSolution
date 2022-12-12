@@ -8,7 +8,7 @@ The Online Reputation Management gives you the control over what potential custo
 
 The Social Media Marketing helps you determine which platform are best suited to your brand, using analytics to find the right markets and increase your lead generation. The Horiseon social solution services website was structured in a way that users can easily find and read the useful informations. 
 
-Horiseon website was created using Fluid Design or Responsive design to make sure that the website should scale with the user screen size by adding <meta name="viewport" content="width=device-width, initial-scale=1.0"> in the head of HTML and using percentages for height and width instead of pixels, this way when someone resizes their browser window, the Html tags will shrink or expand accordingly and not break the page. 
+Horiseon website was created using Fluid Design or Responsive design to make sure that the website should scale with the user screen size by adding "meta name="viewport" content="width=device-width, initial-scale=1.0" in the head of HTML and using percentages for height and width instead of pixels, this way when someone resizes their browser window, the Html tags will shrink or expand accordingly and not break the page. 
 
 This will make it easy to view the website on many different devices and easy to use and easy on the eye, no matter which devices its viewed on.
 
