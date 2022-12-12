@@ -1,6 +1,7 @@
-# Description
+#Week1-Challenge
+## Description
 
-This website was created for a Horiseon Social Solution Services. The website contains many information such as Search Engine Optimization, Online Reputation Management and Social Media Marketing. it also contains Lead Generation, Brand Awareness and Cost Management information.
+This website was created for a Horiseon Social Solution Services following accessibility standards so that its optimized for search engines. The website contains many information such as Search Engine Optimization, Online Reputation Management and Social Media Marketing. it also contains Lead Generation, Brand Awareness and Cost Management information.
 
 The Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers.
 
@@ -13,6 +14,8 @@ Horiseon website was created using Fluid Design or Responsive design to make sur
 This will make it easy to view the website on many different devices and easy to use and easy on the eye, no matter which devices its viewed on.
 
 I also used the @media breakpoints in the CSS file, this will cause the CSS file to use different CSS styles based on the screen size of the device its on. /*MEDIA QUERIES*/.
+
+I learned to use a meta tag in the HEAD of the HTML to make a website more accessible and responsive. I also learned to use breakpoints in the CSS files to resize a browser window no matter what the device it on.  
 
 This website was deployed using GitHub pages so that I can share it with anyone who can visit it using a unique address known as Uniform Resource Locator (URL) on the internet or the World Wide Web(www.Horiseon.com).
 
