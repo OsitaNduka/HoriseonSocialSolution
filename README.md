@@ -15,7 +15,7 @@ This will make it easy to view the website on many different devices and easy to
 
 I also used the @media breakpoints in the CSS file, this will cause the CSS file to use different CSS styles based on the screen size of the device its on. /*MEDIA QUERIES*/.
 
-I learned to use a meta tag in the HEAD of the HTML to make a website more accessible and responsive. I also learned to use breakpoints in the CSS files to resize a browser window no matter what the device it on.  
+I learned to use a meta tag in the HEAD of the HTML to make a website more accessible and responsive. I also learned to use breakpoints in the CSS files to resize a browser window so that it does not matter what device its on.  
 
 This website was deployed using GitHub pages so that I can share it with anyone who can visit it using a unique address known as Uniform Resource Locator (URL) on the internet or the World Wide Web(www.Horiseon.com).
 
