@@ -27,4 +27,4 @@ N/A
 
 ## License
 
-Please referto the license in the Repo.
+Please refer to the license in the Repo.
