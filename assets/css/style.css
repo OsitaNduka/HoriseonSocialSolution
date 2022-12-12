@@ -213,6 +213,10 @@ margin: 0;
     height: 100vh;
 }
 
+.hero {
+    width: 46%;
+}
+
 @media screen and (max-width: 400px) {
 .content {
     width: 92%
