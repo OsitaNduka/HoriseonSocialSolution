@@ -204,17 +204,4 @@ p {
 /*CSS code for when the screen sizes changes*/
 
 
-@media screen and (max-width: 800px) {
-.content {
-width: 46%;
-margin: 0;
-}
-}
-@media screen and (max-width: 400px) {
-.content {
-width: 92%;
-}  
-}
-
-
 
