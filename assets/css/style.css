@@ -212,7 +212,7 @@ margin: 0;
 }
 @media screen and (max-width: 400px) {
 .content {
-    width: 92%
+width: 92%;
 }  
 }
 
