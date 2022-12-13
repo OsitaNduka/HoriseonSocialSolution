@@ -1,4 +1,4 @@
-##Week1-Challenge
+Week1-Challenge
 ## Description
 
 This website was created for a Horiseon Social Solution Services following accessibility standards so that its optimized for search engines. The website contains many information such as Search Engine Optimization, Online Reputation Management and Social Media Marketing. it also contains Lead Generation, Brand Awareness and Cost Management information.
